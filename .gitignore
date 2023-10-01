@@ -35,5 +35,5 @@
 .vs/
 
 # Exe_files
-!x64/
+!libs/ConsoleLib.dll
 

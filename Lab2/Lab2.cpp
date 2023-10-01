@@ -110,7 +110,7 @@ int main()
 
 #pragma region Load_Library for Console Fumctions
 
-	auto ConsoleLib = LoadLibrary(L"../x64/Debug//ConsoleLib.dll");
+	auto ConsoleLib = LoadLibrary(L"../libs/ConsoleLib.dll");
 
 #pragma endregion
 
